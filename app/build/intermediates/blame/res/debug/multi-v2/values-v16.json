@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\SandMan\\Desktop\\Diabit\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "outputFile": "C:\\Users\\SandMan\\Desktop\\Prople\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
             "map": [
                 {
                     "source": "C:\\Users\\SandMan\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\cd1f46d02395c67d708a06c4fbabfa2f\\res\\values-v16\\values-v16.xml",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\SandMan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.0.aar\\c39d5fbececde94642cdc3dd8a3c3ef5\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\SandMan\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-26.1.0.aar\\84a8800282a8cd476f33cc9ca9ff6408\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
