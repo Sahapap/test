@@ -12,7 +12,7 @@ import java.util.List;
 
 @Dao
 public interface UserDao {
-    @Query("select * from user")
+    @Query("select * from user order by id DESC")
     List<User> getAllUsers();
 
     @Insert
